@@ -1,0 +1,6 @@
+{
+  "name": "BARBER 1 – Luxury Barbershop & Booking Management",
+  "description": "Premium barbershop web application for BARBER 1 featuring luxury client booking, Follow My House home service, appointment lookup, and an executive barber management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
